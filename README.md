@@ -17,3 +17,15 @@ Phase 2: Socket.io
 Replace Node Event Pool with socket.io
 Allows web connectivity
 Cleaner event handling
+
+## Installation
+- Clone down a copy of the repository.
+- There are three parts to this application now.
+- `Server`
+    - npm start
+- `Vendor`
+    - npm run vendor
+- `Driver`
+    - npm run driver
+
+NOTE: Each part must be running in its own terminal.
